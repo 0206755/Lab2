@@ -1,0 +1,8 @@
+body {width:970px;margin-left:auto;margin-right:auto;}
+
+header {background:#2F6E91;}
+header h1 {color:white;font-size:16px font-family:arial;}
+
+menu {background:#315062;color:white;}
+menu ul {list-style-type:none;}
+menu li {display:inline-block;padding:6px;}
